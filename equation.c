@@ -1,3 +1,4 @@
+//방정식 가지고 노는 코드
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
